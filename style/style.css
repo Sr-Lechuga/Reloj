@@ -1,0 +1,19 @@
+body{
+    color: #222;
+    font-family: sans-serif;
+}
+
+.clock{
+    display: inline-flex;
+    background: linear-gradient(#111,#888);
+    border: 2px solid #000;
+    border-radius: 5px;
+}
+
+.clock div{
+    color: #fff;
+    padding: 5px 7px;
+    font-size: 28px;
+    font-family: monospace;
+    border: 2px solid black;
+}
